@@ -1,0 +1,3 @@
+1|Avengers: Endgame|Action/Sci-Fi|181|10:00 AM,2:00 PM,6:00 PM,9:30 PM|12.99|95
+2|The Shawshank Redemption|Drama|142|11:00 AM,3:00 PM,7:00 PM|10.99|80
+3|Inception|Sci-Fi/Thriller|148|12:00 PM,4:00 PM,8:00 PM|11.99|88
